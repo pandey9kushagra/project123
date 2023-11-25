@@ -1,0 +1,42 @@
+body{
+    background:url(background.jpg);
+}
+
+.heading{
+
+    width: 100%;
+    font-size: 28px;
+    margin-top: 0px;
+    box-shadow: 1px 10px 25px rgb(192, 105, 5);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+#note{
+    font-size: 22px;
+    color: black;
+    font-weight: bold;
+}
+
+#foot{
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(101, 157, 230);
+    line-height: 3;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+video, canvas{
+
+    border-radius: 15px;
+    border: 6px ridge rgb(192, 75, 75);
+    box-shadow: 10px 10px 20px 5px rgb(0, 0, 0);
+    background-color: bisque;
+ 
+}
